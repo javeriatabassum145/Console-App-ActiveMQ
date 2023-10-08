@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ps:envelope xmlns:ps="urn:ats:mpc:envelope" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<id>ABC</id>
+<type>RequestData</type>
+<format>MX</format>
+<date>2023-10-05T16:17:03</date>
+<signature>Signature</signature>
+<content>Content</content>
+</ps:envelope>
